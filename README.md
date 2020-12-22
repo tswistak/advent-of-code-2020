@@ -1,6 +1,6 @@
 My solutions for Advent of Code 2020. 
 
-These solutions are:ą
+These solutions are:
 
 * not guaranteed to be optimal
 * written mostly to just work, code isn't always prettiest or smartest
@@ -31,3 +31,4 @@ Stats:
 * Day 19: 10104/7044
 * Day 20: 5100/-
 * Day 21: 6775/6454
+* Day 22: 7103/9341
